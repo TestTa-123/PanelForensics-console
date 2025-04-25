@@ -1,6 +1,5 @@
 # PanelForensics-console
 
-Linux面板取证一把梭
+Linux面板取证一把梭命令行版本
 
-命令行版本基于 
-https://github.com/WXjzcccc/PanelForensics
+基于 https://github.com/WXjzcccc/PanelForensics
